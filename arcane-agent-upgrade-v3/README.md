@@ -1,4 +1,4 @@
-# Arcane upgrade to v3: manager backup and agent upgrade
+# Arcane upgrade to v2 to v3: manager backup and agent upgrade
 
 > [!WARNING]
 > **You need root SSH access to every host you update: the Arcane manager host and each agent
